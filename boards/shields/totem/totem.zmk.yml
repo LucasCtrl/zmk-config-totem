@@ -9,7 +9,7 @@ features:
   - keys
 
 requires:
-  - seeed_xiao
+  - seeeduino_xiao_ble
 
 siblings:
   - totem_left
