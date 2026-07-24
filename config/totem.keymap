@@ -62,7 +62,7 @@ label= "BASE"                              ;
                 &kp Q       &kp W       &kp F       &kp P       &kp B           &kp J       &kp L       &kp U       &kp Y       &kp SQT
                 GACS(A,     R,          S,          T)          &kp G           &kp M       SCAG(N,     E,          I,          O)
     &kp Z       &kp Z       &kp X       &kp C       &kp D       &kp V           &kp K       &kp H       &kp COMMA   &kp DOT     &kp FSLH    &kp FSLH
-                                        &kp ESC     &kp SPACE   &lt NAV TAB     &lt SYM RET &kp BSPC    &kp DEL
+                                        &kp ESC     &lt NAV SPACE &lt SYS TAB   &lt FUNC RET &lt NUM BSPC    &kp DEL
             >;
         };
 
