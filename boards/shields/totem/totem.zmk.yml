@@ -9,8 +9,9 @@ features:
   - keys
 
 requires:
-  - seeeduino_xiao_ble
+  - seeed_xiao
 
 siblings:
   - totem_left
   - totem_right
+  - totem_dongle
