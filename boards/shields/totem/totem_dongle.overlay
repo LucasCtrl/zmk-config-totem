@@ -1,5 +1,9 @@
 #include "totem.dtsi"
 
+&kscan {
+    status = "disabled";
+};
+
 / {
     chosen {
         zmk,kscan = &mock_kscan;
