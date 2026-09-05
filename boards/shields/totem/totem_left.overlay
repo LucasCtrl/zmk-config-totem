@@ -1,5 +1,11 @@
 #include "totem.dtsi"
 
+/ {
+    chosen {
+        zmk,kscan = &kscan;
+    };
+};
+
 &kscan {
     col-gpios
         = <&xiao_d 4 GPIO_ACTIVE_HIGH>
